@@ -1,7 +1,7 @@
 version: 2.1
 
 orbs:
-  shellcheck: cicleci/shellcheck@2.2.4
+  shellcheck: circleci/shellcheck@2.2.4
 
 workflows:
   my_workflow:
